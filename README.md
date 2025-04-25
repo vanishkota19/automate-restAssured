@@ -168,12 +168,8 @@ Test execution reports are generated in the `target/surefire-reports` directory 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
-Your Name - [@vanishkota19](https://github.com/vanishkota19)
+Vanish Kota - [@vanishkota19](https://github.com/vanishkota19)
 
 Project Link: [https://github.com/vanishkota19/automate-restAssured](https://github.com/vanishkota19/automate-restAssured)
