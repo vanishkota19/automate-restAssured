@@ -1,0 +1,3 @@
+com\restassured\config\RequestSpecificationBuilder.class
+com\restassured\utils\TestDataReader.class
+com\restassured\config\ConfigManager.class
